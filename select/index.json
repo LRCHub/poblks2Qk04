@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Angel Of My Dreams",
+  "base_artist": "JADE",
+  "createdAt": "2025-12-31T10:15:02.848740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel of My Dreams",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/01_Angel_of_My_Dreams_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "has_synced": false,
+      "path": "select/02_Angel_Of_My_Dreams_JADE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "has_synced": true,
+      "path": "select/03_Angel_Of_My_Dreams_JADE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "has_synced": true,
+      "path": "select/04_Angel_Of_My_Dreams_JADE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel of My Dreams",
+      "artist": "Krokus",
+      "has_synced": false,
+      "path": "select/05_Angel_of_My_Dreams_Krokus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "Jade",
+      "has_synced": true,
+      "path": "select/06_Angel_Of_My_Dreams_Jade.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "Jade",
+      "has_synced": true,
+      "path": "select/07_Angel_Of_My_Dreams_Jade.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams (Lyric Video)",
+      "artist": "JADE",
+      "has_synced": false,
+      "path": "select/08_Angel_Of_My_Dreams_(Lyric_Video)_JADE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "JADE - Angel Of My Dreams (Lyric Video)",
+      "artist": "JADE",
+      "has_synced": true,
+      "path": "select/09_JADE_-_Angel_Of_My_Dreams_(Lyric_Video)_JADE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "has_synced": true,
+      "path": "select/10_Angel_Of_My_Dreams_JADE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "has_synced": false,
+      "path": "select/pl_01_Angel_Of_My_Dreams_JADE.txt"
+    }
+  ]
+}
